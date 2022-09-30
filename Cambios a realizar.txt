@@ -1,0 +1,6 @@
+Tres vistas llamaran al mismo controlador, con diferentes acciones
+Las URLs seran el mecanismo para pedirle cosas al controlador
+
+//////////// Realizar ///////////////
+Corregir RecursoBuscador implementando name, action y method
+Crear accion uardar que se llame desde formulario, crear vista que se parece a la de usuario guardar
